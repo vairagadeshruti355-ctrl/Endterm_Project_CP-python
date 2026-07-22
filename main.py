@@ -18,5 +18,8 @@ print("\nShortest Path")
 for node in path:
     print(node)
 
-print("\nMinimum Cost :",cost)
-print("Monsters Encountered :",monsters)
+path, total_cost, monsters = shortest_path(graph, maze)
+
+print("\nShortest Path:", path)
+print("Total Path Cost:", total_cost)
+print("Monsters Encountered:", monsters)
