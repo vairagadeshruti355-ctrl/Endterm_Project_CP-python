@@ -19,7 +19,8 @@ The maze may contain:
 Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to compute the optimal path.<br>
 <br>
 <br>
-##objective<br>
+
+## objective 
 - Generate random mazes with different sizes.<br>
 - Implement an efficient maze solver.<br>
 - Compute and print the minimum cost to reach the destination.<br>
@@ -27,7 +28,8 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 - Organize your code into clean, modular functions.<br>
 <br>
 <br>
-##Features<br>
+
+## Features 
 -Random maze generation<br>
 -Graph representation<br>
 -Dijkastra Algorithm<br>
@@ -38,7 +40,8 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 -Path reconstruction<br>
 <br>
 <br>
-#Technologies used<br>
+
+## Technologies used
 -Python 3<br>
 -random<br>
 -collections<br>
