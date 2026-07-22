@@ -1,3 +1,74 @@
+# Competitive Programming in python - (from begginer to contest level)
+
+Mentor : Srinivas Dorisala<br>
+Mentee : Shruti Vairagade<br>
+<br>
+Introduction:<br>
+<br>
+This repository contains my work completed during the first four week of the summer of code project (SoC) 2026 project on Competitive programming using python.
+the aim of this project is to develop strong problem-solving skills, improve algorithmic thinking, and gain proficiecncy in implementing efficient solution
+to programming challenges.<br>
+<br>
+<br>
+Throughout the project, I practiced a variety of competitive programming concepts including complexity analysis, data structures, searching and sorting techniques,
+recursion, and algorithmic problem-solving. The assignments and coding exercises helped me strengthen my understanding of python.<br>
+<br>
+<br>
+This repository serves as a record of my progress, containing weekly assignments, solutions, and notes covering the topics learned during the first four weeks of the program<br>
+<br>
+<br>
+Topics covered:<br>
+<br>
+1. Basics of python
+2. Data structure of python
+3. Sorting Algorithm
+4. Searching algorithm
+5. Recursion fundamentals
+6. Basics of greedy and Backtracking
+7. Time and space complexity
+8. Graph Basics
+9. Traversal - DFS & BFS
+10. Cycle Detection
+11. Topological sorting
+12. Shortest Path algorithm (Dijkastra, Beliman-Ford, BFS)
+13. Minimum Spanning tree
+14. Union find (Disjoint sets)<br>
+<br>
+<br>
+Week 1:
+In this week, I have worked on building the basic foundation of the python which includes building algorithms, understanding loops, Understanding conditional problems.<br>
+<br>
+The google colab link of week 1 assignment is given below:<br>
+https://colab.research.google.com/drive/1MEr4SLyOVmL798kiUbK5KwfyODcLczBD?usp=sharing <br>
+<br>
+<br>
+Week 2:
+This week focuses on how to create set ?, dictionaries how to use algorithms like sorting and searching can be used to get the required information as output for
+given input ? also under data structure of python more deeply. <br>
+<br>
+The google colab link of week 2 assignment is given below: <br>
+https://colab.research.google.com/drive/1hK6JBI5VwNROKfD5DlxH2JfQEeSz-F-2?usp=sharing <br>
+<br>
+<br>
+Week 3:
+This week mainly focuses on learning recursion fundamentals and algorithms like Binary Search, merge  and merge & sort. it also includes building basics of greedy and backtracking and Time and space complexity.<br>
+<br>
+The google colab link of week 3 assignment is given below:<br>
+https://colab.research.google.com/drive/1Y7YthVlEpJZdPqac3s0OuIJ--j2CEGLh?usp=sharing <br>
+<br>
+<br>
+week 4:
+This week focuses on learning the implementation of dijkastra's, kahn's and kosajaru's algorithm for solving questions of finding shortest path or maximizing output this week also focuses on building foundational knowledge on graph basics and implementation of techniques like BFS and DFS for graph traversal as well as
+cycle detection.<br>
+<br>
+The google colab link of week 4 assignment is given below:<br>
+https://colab.research.google.com/drive/1e0Hex861vLfEMflewH39xU3Jo2rg8Xs4?usp=sharing <br>
+<br>
+<br>
+Conclusion:<br>
+<br>
+The first four week have improved my understanding of CP and algorithmic problem solving .Through regular practice and assignment completion, i have gained confidence in designing efficient solutions and implemeting them in python. The knowledge acquired so far provided provides a strong foundation for tackling more advanced algorithm and challenging problems 
+
 # PathQuest Lite <br>
 ## Minimum Cost Maze Solver using Dijkastra's Algorithm<br>
 <br>
