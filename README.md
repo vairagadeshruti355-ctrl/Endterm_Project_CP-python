@@ -32,7 +32,10 @@ Topics covered:<br>
 11. Topological sorting
 12. Shortest Path algorithm (Dijkastra, Beliman-Ford, BFS)
 13. Minimum Spanning tree
-14. Union find (Disjoint sets)<br>
+14. Union find (Disjoint sets)
+15. Dynamic Programming
+16. python libraries
+17. <br>
 <br>
 <br>
 Week 1:
@@ -65,10 +68,26 @@ The google colab link of week 4 assignment is given below:<br>
 https://colab.research.google.com/drive/1e0Hex861vLfEMflewH39xU3Jo2rg8Xs4?usp=sharing <br>
 <br>
 <br>
-Conclusion:<br>
+week 5:
+This week focuses on learning the logic behind dynamic programming a powerful technique too solve problems by breaking them down into simpler subproblems. understanding difference between recursion, memoization
+, and tabulation, tracing common pattern in DP problems and solving classic problems.
+The google colab link of week 5 assignment is given below:
+https://colab.research.google.com/drive/1mrtljp-MK9x-AoU8F_wZ2u7QguIvknb4?usp=sharing<br>
 <br>
-The first four week have improved my understanding of CP and algorithmic problem solving .Through regular practice and assignment completion, i have gained confidence in designing efficient solutions and implemeting them in python. The knowledge acquired so far provided provides a strong foundation for tackling more advanced algorithm and challenging problems 
-
+<br>
+week 6:
+This week focuses on understanding implementation of python libraries, how to write shorter and cleaner code using the python libraries. Not just memorizing python functions but learning how yto find and use
+them to built code with clean structure and good implementation
+The google colab link for week 6 assignment is given below:
+https://colab.research.google.com/drive/1LwYBXfmc9gtcQRt1AJX68RJ6DsukDlyt?usp=sharing<br>
+<br>
+<br>
+week 7:
+This week focuses on building python contest strategies and managing time constraint along with the optimization of the problem output by performing code analysis with the focused contest mindset. in this week i have participated in code contests on platforms like codeforces and leet code to test my skills and knowledge<br>
+<br>
+<br>
+week 8:
+This week focuses on Building python project:
 # PathQuest Lite <br>
 ## Minimum Cost Maze Solver using Dijkastra's Algorithm<br>
 <br>
@@ -122,16 +141,15 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 
 ## cells cost
 <br>
-| Cell | Cost |
-|------|------|
-| S | 0 |
-| E | 0 |
-| . | 1 |
-| T | 3 |
-| M | 5 |
-| # | Blocked |
+ Cell  Cost 
+ S  -  0 
+ E -  0 
+ . -  1 
+ T -  3 
+ M -  5 
+ # -  Blocked 
 <br>
-
+<br>
 ## Project Structure
 -main.py - Runs the project<br>
 -maze_generator.py - Generates the maze<br>
