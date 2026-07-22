@@ -75,5 +75,6 @@ Run : python main.py<br>
 ## Acknowledgement
 Developed as part of WnCC Season of code 2026<br>
 
-
+## Conclusion
+PathQuest Lite successfully demonstrates how a maze can be represented as a graph and solved using Dijkstra's Algorithm to find the minimum-cost path from the start to the destination. The project combines concepts of graph theory, weighted shortest path algorithms, and Python programming in a practical application. Through this project, I gained experience in graph modelling, algorithm implementation, debugging, and writing modular code. Future improvements include adding a graphical user interface, maze visualization, support for larger mazes, and implementing alternative pathfinding algorithms such as A* for performance comparison.
 
