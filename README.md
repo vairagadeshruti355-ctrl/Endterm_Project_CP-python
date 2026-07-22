@@ -90,6 +90,7 @@ This week focuses on building python contest strategies and managing time constr
 <br>
 week 8:
 This week focuses on Building python project:
+
 # PathQuest Lite <br>
 ## Minimum Cost Maze Solver using Dijkastra's Algorithm<br>
 <br>
