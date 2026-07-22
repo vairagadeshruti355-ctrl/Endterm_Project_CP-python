@@ -7,7 +7,7 @@ Generate a random square maze containing:
 - . -(Empty Cell)
 - T -(Trap)
 - M - (Monster)
-- # - (Wall)
+- #(Wall)
 
 ## Step 2
 Assign traversal costs:
