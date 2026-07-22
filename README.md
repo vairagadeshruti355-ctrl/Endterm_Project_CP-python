@@ -59,12 +59,14 @@ T            -                               3<br>
 M            -                               5<br>
 #            -                               blocked<br>
 <br>
+
 ## Project Structure
 -main.py - Runs the project<br>
 -maze_generator.py - Generates the maze<br>
 -graph.py - Converts maze into a graph<br>
 -pathfinder.py - finds the path<br>
 <br>
+
 ## How to Run
 <br>
 Run : python main.py<br>
