@@ -62,4 +62,4 @@ def shortest_path(graph, maze):
         for r,c in path
     )
 
-    return path,dist[end],monsters
+    return path, dist[end], monsters
