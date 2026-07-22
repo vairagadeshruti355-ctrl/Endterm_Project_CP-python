@@ -2,11 +2,11 @@
 
 ## Step 1
 Generate a random square maze containing:
-- S -(Start)
-- E -(End)
-- . -(Empty Cell)
-- T -(Trap)
-- M - (Monster)
+- S(Start)
+- E(End)
+- .(Empty Cell)
+- T(Trap)
+- M(Monster)
 - #(Wall)
 
 ## Step 2
