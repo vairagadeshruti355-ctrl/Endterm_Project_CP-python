@@ -51,14 +51,14 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 
 ## cells cost
 <br>
-|Cell  | Cost|
-|------|---------|
-|S      |   0  |
-|E      |   0  |
-|.      |   1  |
-|T      |   3  |
-|M      |   5  |
-|#      |   blocked |
+|Cell|Cost|
+|----|----|
+|S|0|
+|E|0|
+|.|1|
+|T|3|
+|M|5|
+|#|blocked|
 
 <br>
 
