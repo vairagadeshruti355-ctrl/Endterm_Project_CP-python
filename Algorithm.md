@@ -2,12 +2,12 @@
 
 ## Step 1
 Generate a random square maze containing:
-- S (Start)
-- E (End)
-- . (Empty Cell)
-- T (Trap)
-- M (Monster)
-- # (Wall)
+- S -(Start)
+- E -(End)
+- . -(Empty Cell)
+- T -(Trap)
+- M - (Monster)
+- # - (Wall)
 
 ## Step 2
 Assign traversal costs:
