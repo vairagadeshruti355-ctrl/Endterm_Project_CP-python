@@ -36,7 +36,7 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 -Dijkastra Algorithm<br>
 -Minimum-cost path<br>
 -Trap cells<br>
--Monster cells<br>
+-Monster cells count<br>
 -Walls<br>
 -Path reconstruction<br>
 <br>
@@ -45,6 +45,33 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 ## Technologies used
 -Python 3<br>
 -random<br>
+-heapq<br>
 -collections<br>
 -VS Code<br>
+
+## cells cost
+<br>
+Cell                                       Cost<br>
+S            -                               0<br>
+E            -                               0<br>
+.            -                               1<br>
+T            -                               3<br>
+M            -                               5<br>
+#            -                               blocked<br>
+<br>
+## Project Structure
+-main.py - Runs the project<br>
+-maze_generator.py - Generates the maze<br>
+-graph.py - Converts maze into a graph<br>
+-pathfinder.py - finds the path<br>
+<br>
+## How to Run
+<br>
+Run : python main.py<br>
+<br>
+
+## Acknowledgement
+Developed as part of WnCC Season of code 2026<br>
+
+
 
