@@ -143,15 +143,16 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 
 ## cells cost
 <br>
- Cell  Cost 
- S  -  0 
- E -  0 
- . -  1 
- T -  3 
- M -  5 
- # -  Blocked 
+ Cell  Cost <br>
+ S  -  0 <br>
+ E -  0  <br>
+ . -  1  <br>
+ T -  3  <br>
+ M -  5  <br>
+ # -  Blocked <br>
 <br>
 <br>
+
 ## Project Structure
 -main.py - Runs the project<br>
 -maze_generator.py - Generates the maze<br>
