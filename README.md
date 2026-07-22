@@ -51,13 +51,15 @@ Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to comput
 
 ## cells cost
 <br>
-Cell                                       Cost<br>
-S            -                               0<br>
-E            -                               0<br>
-.            -                               1<br>
-T            -                               3<br>
-M            -                               5<br>
-#            -                               blocked<br>
+|Cell  | Cost<br>|
+|------|---------|
+|S      |   0  |
+|E      |   0  |
+|.      |   1  |
+|T      |   3  |
+|M      |   5  |
+|#      |   blocked |
+|-------|-----------|
 <br>
 
 ## Project Structure
