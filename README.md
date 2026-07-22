@@ -70,14 +70,16 @@ https://colab.research.google.com/drive/1e0Hex861vLfEMflewH39xU3Jo2rg8Xs4?usp=sh
 <br>
 week 5:
 This week focuses on learning the logic behind dynamic programming a powerful technique too solve problems by breaking them down into simpler subproblems. understanding difference between recursion, memoization
-, and tabulation, tracing common pattern in DP problems and solving classic problems.
+, and tabulation, tracing common pattern in DP problems and solving classic problems.<br>
+<br>
 The google colab link of week 5 assignment is given below:
 https://colab.research.google.com/drive/1mrtljp-MK9x-AoU8F_wZ2u7QguIvknb4?usp=sharing<br>
 <br>
 <br>
 week 6:
 This week focuses on understanding implementation of python libraries, how to write shorter and cleaner code using the python libraries. Not just memorizing python functions but learning how yto find and use
-them to built code with clean structure and good implementation
+them to built code with clean structure and good implementation<br>
+<br>
 The google colab link for week 6 assignment is given below:
 https://colab.research.google.com/drive/1LwYBXfmc9gtcQRt1AJX68RJ6DsukDlyt?usp=sharing<br>
 <br>
