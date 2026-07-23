@@ -7,14 +7,14 @@ Introduction:<br>
 <br>
 This repository contains my work completed during the first four week of the summer of code project (SoC) 2026 project on Competitive programming using python.
 the aim of this project is to develop strong problem-solving skills, improve algorithmic thinking, and gain proficiecncy in implementing efficient solution
-to programming challenges.<br>
+to programming challenges, I have also done a project on maze-shortest pathfinder that helped me to build a good knowledge about dijkastra algothm and building optimal solution for finding the minimal cost-path.<br>
 <br>
 <br>
 Throughout the project, I practiced a variety of competitive programming concepts including complexity analysis, data structures, searching and sorting techniques,
 recursion, and algorithmic problem-solving. The assignments and coding exercises helped me strengthen my understanding of python.<br>
 <br>
 <br>
-This repository serves as a record of my progress, containing weekly assignments, solutions, and notes covering the topics learned during the first four weeks of the program<br>
+This repository serves as a record of my progress, containing weekly assignments, solutions, and notes covering the topics learned during the eight weeks of the program invluding my project files, code snippets and outputs for the project obtained<br>
 <br>
 <br>
 Topics covered:<br>
@@ -35,7 +35,7 @@ Topics covered:<br>
 14. Union find (Disjoint sets)
 15. Dynamic Programming
 16. python libraries
-17. <br>
+17.Built a shortest path finding algorithm as a function <br>
 <br>
 <br>
 Week 1:
@@ -172,3 +172,6 @@ Developed as part of WnCC Season of code 2026<br>
 ## Conclusion
 PathQuest Lite successfully demonstrates how a maze can be represented as a graph and solved using Dijkstra's Algorithm to find the minimum-cost path from the start to the destination. The project combines concepts of graph theory, weighted shortest path algorithms, and Python programming in a practical application. Through this project, I gained experience in graph modelling, algorithm implementation, debugging, and writing modular code. Future improvements include adding a graphical user interface, maze visualization, support for larger mazes, and implementing alternative pathfinding algorithms such as A* for performance comparison.
 
+## Video Representation
+I am also adding a video link for the short explaination of the project and it's different sections:
+https://drive.google.com/file/d/1ZOm80BoQI9eOgihbrdy6Tn2izmcudi2i/view?usp=drivesdk
