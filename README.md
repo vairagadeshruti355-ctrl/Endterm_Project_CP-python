@@ -7,7 +7,7 @@ Introduction:<br>
 <br>
 This repository contains my work completed during the first four week of the summer of code project (SoC) 2026 project on Competitive programming using python.
 the aim of this project is to develop strong problem-solving skills, improve algorithmic thinking, and gain proficiecncy in implementing efficient solution
-to programming challenges, I have also done a project on maze-shortest pathfinder that helped me to build a good knowledge about dijkastra algothm and building optimal solution for finding the minimal cost-path.<br>
+to programming challenges, I have also done a project (PathQuest lite) on maze-shortest pathfinder that helped me to build a good knowledge and implementation skills for dijkastra algorithm and building optimal solution for finding the minimal cost-path.<br>
 <br>
 <br>
 Throughout the project, I practiced a variety of competitive programming concepts including complexity analysis, data structures, searching and sorting techniques,
@@ -108,7 +108,7 @@ The maze may contain:
 - . – Empty path<br>
 - T – Traps (extra cost)<br>
 - M – Monsters (higher cost)<br>
-- # – Walls (blocked)<br>
+- (#)-Walls (blocked)<br>
 <br>
 Use Dijkstra's Algorithm (or another suitable shortest-path algorithm) to compute the optimal path.<br>
 <br>
